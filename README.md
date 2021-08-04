@@ -47,7 +47,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://sherlockboy.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sherlockboy.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/khurshid-kobilov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KobilovKhurshid-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kabilovhurshid5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kabilovhurshid5@gmail.com-blue?style=flat-square&logo=gmail"></a>
