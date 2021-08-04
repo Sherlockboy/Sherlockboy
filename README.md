@@ -19,7 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
 - 🛢 &nbsp;
