@@ -45,8 +45,10 @@
 
 <br/>
 
-<a href="https://app.testdome.com/cert/4149c87e17a94cf7b4b3fe5161037da6" class="testdome-certificate-stamp gold"><span class="testdome-certificate-name">Khurshidbek Kobilov</span><span class="testdome-certificate-test-name">Laravel </span><span class="testdome-certificate-card-logo">TestDome<br />Certificate</span></a>
-<script>var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+<a href="https://app.testdome.com/cert/4149c87e17a94cf7b4b3fe5161037da6" class="testdome-certificate-stamp gold">
+    <span class="testdome-certificate-name">Khurshidbek Kobilov</span><span class="testdome-certificate-test-name">Laravel </span>
+    <span class="testdome-certificate-card-logo">TestDome<br />Certificate</span>
+</a>
 
 <br/>
 
