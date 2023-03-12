@@ -1,10 +1,9 @@
 <h2> Hey there! I'm Khurshid.</h2>
-    Passionate Backend Developer. Mostly working with Laravel/Vue applications. Interested in Node JS, Golang, Data-Science, AI.
+    Passionate Backend Developer. Mostly working with Laravel applications. Interested in Rust, Data-Science, AI.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at INHA University in Tashkent.
-- 💼 &nbsp; Working as a Backend Developer at Unity Group and Neo Banking LLC.
+- 🎓 &nbsp; Graduate, INHA University in Tashkent, Computer Science.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
