@@ -1,62 +1,75 @@
-<h2> Hey there! I'm Khurshid.</h2>
-    Passionate Backend Developer. Mostly working with Laravel applications. Interested in Rust, Data-Science, AI.
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1> Hey there! I'm Khurshid.</h1>
+
+<p>
+    Passionate Backend Developer. Mostly working with <strong>PHP</strong> and <strong>Node.js</strong> applications. Interested in <strong>low-level programming</strong> and <strong>AI</strong>.
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate, INHA University in Tashkent, Computer Science.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Node.js](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+  [![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)](#)
+  [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+  [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#)
+  [![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff)](#)
+- ☁️ &nbsp;
+  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+  [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+  [![Hetzner](https://img.shields.io/badge/Hetzner-D30428?logo=Hetzner&logoColor=white)](#)
+  [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+  [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+  [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+- 📊 &nbsp;
+  [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+  [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#)
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+  [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
+  [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+  [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
+  [![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)
+- 🤖 &nbsp;
+  [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+  [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+  [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
-<br/>
-
-<a href="https://github.com/Sherlockboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sherlockboy&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlockboy&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<a href="https://app.testdome.com/cert/4149c87e17a94cf7b4b3fe5161037da6" class="testdome-certificate-stamp gold">
-    <span class="testdome-certificate-name">Khurshidbek Kobilov</span><span class="testdome-certificate-test-name">Laravel </span>
-    <span class="testdome-certificate-card-logo">TestDome<br />Certificate</span>
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p>
-<a href="https://sherlockboy.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-sherlockboy.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/khurshid-kobilov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KobilovKhurshid-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kabilovhurshid5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kabilovhurshid5@gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://sherlockboy.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/sherlockboy.github.io-blue?style=flat-square&logo=google-chrome&logoColor=fff"></a>
+    <a href="https://www.linkedin.com/in/khurshid-kobilov/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+    <a href="mailto:kabilovhurshid5@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
-
-⭐️ From [Sherlockboy](https://github.com/Sherlockboy)
